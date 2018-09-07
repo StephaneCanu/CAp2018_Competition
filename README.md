@@ -12,7 +12,7 @@ This repository contains:
 - the guidelines of the competition, and an adendix 
 	 * competition_en.pdf
    * competition_annexes_EN.pdf 	
-- an anlysis of the results
+- A position paper discussing the results of the competition
    * TBA
 - some code to start with the data
 	 * A jupyter notebook in python: cap2018.ipynb 	
