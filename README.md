@@ -20,4 +20,11 @@ This repository contains:
    * Matlab code: cap2018.m 	Add files via upload 	26 minutes ago
    * R code: cap2018.R 	Add files via upload 	26 minutes ago
 
+## Data set
+
+To access data competitors have to:
+register here to: [https://corpus.mml.cam.ac.uk/efcamdat2/public_html/explore/](https://corpus.mml.cam.ac.uk/efcamdat2/public_html/explore/)
+after registering, you should then send an email to: efcamdat.team@gmail.com with the subject: Request for CAp2018 Shared Task Data
+
+
 
