@@ -13,7 +13,7 @@ This repository contains:
 	 * competition_en.pdf
    * competition_annexes_EN.pdf 	
 - an anlysis of the results
- * TBA
+   * TBA
 - some code to start with the data
 	 * A jupyter notebook in python: cap2018.ipynb 	
 	 * Python code: cap2018.py 	Add files via upload 	26 minutes ago
